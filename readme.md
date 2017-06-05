@@ -1,7 +1,7 @@
 # Linux ディストリビューションガイド
 <https://officeokano.github.io/linux-guide-ja/>
 # マークダウン書式一覧
-<https://officeokano.github.io/markdown-syntax-ja/>
+<https://officeokano.github.io/markdown-syntax-ja/markdown-syntax-ja.html>
 # 雑記
 <https://officeokano.github.io/miscellaneous/>
 # 連絡先
