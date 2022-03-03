@@ -12,3 +12,4 @@
 ## 連絡先
 [GitHub](https://github.com/officeokano)  
 [Twitter](https://twitter.com/messages/compose?recipient_id=10862)
+[Opensea](https://opensea.io/okatov)
