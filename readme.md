@@ -13,5 +13,5 @@
 [GitHub](https://github.com/officeokano) / 
 [Opensea](https://opensea.io/0x0d_550C)  
 [Matrix](https://matrix.to/#/@okano:mozilla.org) /
-[Mastodon](https://social.vivaldi.net/@okano)  
+<a rel="me" href="https://social.vivaldi.net/@okano">Mastodon</a>  
 [About Τόνια](https://paper.dropbox.com/doc/About--BdCizlPdZUOEFvRsDHPmPKVjAQ-ddH1X1WqPJpw9HHgkYFnU)
