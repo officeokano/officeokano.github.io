@@ -11,7 +11,8 @@
 
 ## 連絡先
 [GitHub](https://github.com/officeokano) / 
-[Opensea](https://opensea.io/0x0d_550C)  
-[Matrix](https://matrix.to/#/@okano:mozilla.org) /
-<a rel="me" href="https://social.vivaldi.net/@okano">Mastodon</a>  
+[Matrix](https://matrix.to/#/@okano:mozilla.org)  
+<a rel="me" href="https://social.vivaldi.net/@okano">Mastodon</a> /
+<a rel="me" href="https://msk.ilnk.info/@okano">Misskey /
+<a rel="me" href="https://calckey.jp/@okano">Calckey  
 [About Τόνια](https://paper.dropbox.com/doc/About--BdCizlPdZUOEFvRsDHPmPKVjAQ-ddH1X1WqPJpw9HHgkYFnU)
