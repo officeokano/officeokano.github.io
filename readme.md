@@ -13,6 +13,4 @@
 [GitHub](https://github.com/officeokano) / 
 [Matrix](https://matrix.to/#/@okano:mozilla.org)  
 <a rel="me" href="https://social.vivaldi.net/@okano">Mastodon</a> /
-<a rel="me" href="https://msk.ilnk.info/@okano">Misskey</a> /
-<a rel="me" href="https://calckey.jp/@okano">Calckey</a>  
-[About Τόνια](https://paper.dropbox.com/doc/About--BdCizlPdZUOEFvRsDHPmPKVjAQ-ddH1X1WqPJpw9HHgkYFnU)
+<a rel="me" href="https://msk.ilnk.info/@okano">Misskey</a>  
