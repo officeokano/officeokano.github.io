@@ -13,4 +13,4 @@
 [GitHub](https://github.com/officeokano) / 
 [Matrix](https://matrix.to/#/@okano:mozilla.org)  
 <a rel="me" href="https://mastodon.social/@xfer">Mastodon</a> / <a rel="me" href="https://social.vivaldi.net/@okano">Vialdi Soical</a> /
-<a rel="me" href="https://msk.ilnk.info/@okano">Misskey</a> / <a rel="me" href="https://fedibird.com/@caterer3633">Fedibird</a> / [Bluesky](https://bsky.app/profile/amuser8251.bsky.social)  
+<a rel="me" href="https://msk.ilnk.info/@okano">Misskey</a> /  [Bluesky](https://bsky.app/profile/amuser8251.bsky.social)  
