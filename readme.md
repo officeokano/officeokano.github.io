@@ -14,7 +14,6 @@
 [Gravatar](https://gravatar.com/okano) / 
 [Telegram](https://t.me/xitoc1)  
 <a rel="me" href="https://mastodon.social/@xfer">Mastodon</a> / 
-<a rel="me" href="https://twely.etn.icu/@exponent6452">Twely</a> / 
 [Bluesky](https://bsky.app/profile/officeokano.github.io) /
 [Nostr](https://nostter.app/officeokano.github.io)  
 Send me Bitcoin [Onchain](https://trocador.app/anonpay?ticker_to=btc&network_to=Mainnet&address=bc1qwlrgcxaw8kmpk6awsarykjgcm6fmh9hfvzw500&ref=sqKNYGZbRl&direct=True) or 
