@@ -13,4 +13,4 @@
 [GitHub](https://github.com/officeokano) / 
 [Gravatar](https://gravatar.com/okano)   
 <a rel="me" href="https://social.vivaldi.net/@xfer">Mastodon</a> /
-[Bluesky](https://bsky.app/profile/officeokano.github.io) /
+[Bluesky](https://bsky.app/profile/officeokano.github.io)  
